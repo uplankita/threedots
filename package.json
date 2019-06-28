@@ -1,0 +1,15 @@
+{
+  "name": "@ankita_k/threedots",
+  "version": "1.0.0",
+  "description": "Package to limit a string to the specified number of character and append with three dots if there are more characters.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "string",
+    "substring"
+  ],
+  "author": "Ankita",
+  "license": "ISC"
+}
